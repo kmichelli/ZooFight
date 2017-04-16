@@ -3,6 +3,7 @@ This was a school assignment that I had worked on. It starts by creating a cage 
 
 Once all of the animals are added and the cage is at capacity, a simulation will take place.
 The simulation will have a different outcome depending on the animals in the cage. 
+
 Interact for a Tiger follows these rules:
   •	If the animal that a Tiger is interacting with is a sheep
     - The Tiger will set the sheep's health to 0.
