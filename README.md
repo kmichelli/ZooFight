@@ -1,4 +1,4 @@
-# ZooFight
+# ZooGame
 This was a school assignment that I had worked on. It starts by creating a cage which different animals can be added to. The three animals are Tiger, Bengal, and Sheep. 
 
 Once all of the animals are added and the cage is at capacity, a simulation will take place.
